@@ -1,0 +1,15 @@
+- SpeechRecognition
+  > https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+
+- A basic tutorial on how to set up Speech Recognition with React
+  > https://medium.com/@amanda.k.hussey/a-basic-tutorial-on-how-to-incorporate-speech-recognition-with-react-6dff9763cea5
+
+- IBMWatsonSTT API Documentation
+  > https://rapidapi.com/dimas/api/IBMWatsonSTT
+
+- react-speech-recognition
+  > https://github.com/FoundersFactory/react-speech-recognition/
+
+- react-mic
+  > https://github.com/hackingbeauty/react-mic
+
