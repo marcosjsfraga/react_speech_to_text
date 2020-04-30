@@ -1,3 +1,10 @@
+
+- JavaScript Speech Recognition #JavaScript30 20/30
+  > https://www.youtube.com/watch?v=0mJC0A72Fnw
+
+- 5 - React tutorial with Firebase - Learn React - Add Speech Recognition Package
+  > https://www.youtube.com/watch?v=eCr0WC5yM0I
+
 - SpeechRecognition
   > https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 
